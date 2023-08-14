@@ -1,4 +1,4 @@
-import { axiosGet } from '../utils/http'
+import { axiosGet } from './http'
 
 function getCourseFields() {
   return new Promise((resolve, reject) => {

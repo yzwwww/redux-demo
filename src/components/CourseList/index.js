@@ -18,9 +18,15 @@ export default class CourseList extends Component {
 
   render() {
     const { courseData } = this.state
+    const { curField } = this.props
+    const curCourseList = courseData.filter((item) => {
+      if (curField === -1) return true
+      return item.fieldId === curField
+    })
+
     return (
       <div>
-        {courseData.map((item, i) => {
+        {curCourseList.map((item, i) => {
           return <CourseListItem key={i} item={item}></CourseListItem>
         })}
       </div>
