@@ -1,0 +1,26 @@
+{
+  "code": "200",
+  "result": [
+    {
+      "field": -1,
+      "fieldName": "全部"
+    },
+    {
+      "field": 0,
+      "fieldName": "游泳"
+    },
+    {
+      "field": 1,
+      "fieldName": "健身"
+    },
+    {
+      "field": 2,
+      "fieldName": "围棋"
+    },
+    {
+      "field": 3,
+      "fieldName": "电竞"
+    }
+  ],
+  "desc": "成功"
+}

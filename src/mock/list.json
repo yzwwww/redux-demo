@@ -1,0 +1,90 @@
+{
+  "code": "200",
+  "result": [
+    {
+      "id": "001",
+      "name": "自由泳1",
+      "fieldName": "游泳",
+      "fieldId": 0
+    },
+    {
+      "id": "002",
+      "name": "自由泳2",
+      "fieldName": "游泳",
+      "fieldId": 0
+    },
+    {
+      "id": "003",
+      "name": "自由泳3",
+      "fieldName": "游泳",
+      "fieldId": 0
+    },
+    {
+      "id": "004",
+      "name": "自由泳4",
+      "fieldName": "游泳",
+      "fieldId": 0
+    },
+    {
+      "id": "005",
+      "name": "自由泳5",
+      "fieldName": "游泳",
+      "fieldId": 0
+    },
+    {
+      "id": "006",
+      "name": "自由泳6",
+      "fieldName": "游泳",
+      "fieldId": 0
+    },
+    {
+      "id": "010",
+      "name": "瑜伽1",
+      "fieldName": "健身",
+      "fieldId": 1
+    },
+    {
+      "id": "011",
+      "name": "瑜伽2",
+      "fieldName": "健身",
+      "fieldId": 1
+    },
+    {
+      "id": 1001,
+      "name": "柯洁1",
+      "fieldName": "围棋",
+      "fieldId": 2
+    },
+    {
+      "id": 1002,
+      "name": "柯洁2",
+      "fieldName": "围棋",
+      "fieldId": 2
+    },
+    {
+      "id": 1003,
+      "name": "柯洁3",
+      "fieldName": "围棋",
+      "fieldId": 2
+    },
+    {
+      "id": 1004,
+      "name": "柯洁4",
+      "fieldName": "围棋",
+      "fieldId": 2
+    },
+    {
+      "id": "100",
+      "name": "LOL",
+      "fieldName": "电竞",
+      "fieldId": 3
+    },
+    {
+      "id": "101",
+      "name": "DOTA2",
+      "fieldName": "电竞",
+      "fieldId": 3
+    }
+  ],
+  "desc": "成功"
+}
